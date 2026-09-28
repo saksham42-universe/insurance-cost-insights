@@ -12,3 +12,9 @@ EDA and statistical analysis completed. Machine learning prediction pipeline is 
 
 ## Author
 Saksham
+
+#key visuals
+
+![Correlation Heatmap](images/correlation-heatmap.png)
+![charges-distribution](images/charges-distribution.png)
+![bmi-distribution](images/bmi-distribution.png)
